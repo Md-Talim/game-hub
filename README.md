@@ -1,9 +1,11 @@
-# Gamers Grid
+# Gamers Grid (V2 in progress)
 
 ### Description
+
 This repository contains the code for a website built with React.js, TypeScript, Chakra-ui, and integrated with the rawg.io games API. The website allows users to search for games and filter them by platform and genres.
 
 ### Features
+
 - Search for games
 - Filter games by platform and genres
 - Sort games by popularity & rating
@@ -11,15 +13,18 @@ This repository contains the code for a website built with React.js, TypeScript,
 - Unlimited scroll
 
 ### Technologies Used
+
 - React.js
 - TypeScript
 - Chakra-ui
 - rawg.io games API
 
 ### Website Features
+
 The website allows users to browse their favorite games. You can also search for games and filter them by platform and genres. It provides a user-friendly interface for exploring and discovering various games.
 You can view the individual game information.
 **Like:**
+
 - Game description
 - Screenshots
 - Trailer (if available)
@@ -28,6 +33,7 @@ You can view the individual game information.
 - Publisher information
 
 ### Sample Games
+
 - Grand Theft Auto V
 - The Witcher 3: Wild Hunt
 - Portal 2

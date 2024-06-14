@@ -1,4 +1,4 @@
-# Gamers Grid (V2 in progress)
+# Games Hub ([V2 with Next.js](https://github.com/md-talim/games-hub-next))
 
 ### Description
 
